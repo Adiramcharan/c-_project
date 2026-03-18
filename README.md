@@ -11,7 +11,7 @@ My goal is to learn the C++ and apply them to stimulation and scientific computa
 - Functions
 
 ## Structure
-Tutorial - I am learning C++ from the [learncpp](https://www.learncpp.com/ website).
+Tutorial - I am learning C++ from the [learncpp](https://www.learncpp.com/) website.
 Projects - My own implementation.
 
 ## Projects
