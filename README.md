@@ -17,6 +17,7 @@ Projects - My own implementation.
 ## Projects
 - Kinectic energy calculator.
 - Free falling body from tower which have certain height(user defined) with time stamps(discrete).
+- Using python GUI and C++ as solver to solve the area and perimeter of Rectangle.
 
 ## Next steps
 - control statements
